@@ -29,7 +29,7 @@ Use your preferred hosting provider for demo.
 ```
 GET /forecast/current?city=(string) - current weather forecast
 GET /forecast/tomorrow?city=(string) - weather forecast for tomorrow
-GET /cities - list of available cities for weathe forecast. Must use streamable design
+GET /cities - list of available cities for weather forecast. Must use streamable design
 ```
 
 ### Details
